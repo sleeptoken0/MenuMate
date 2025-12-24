@@ -1,0 +1,31 @@
+"tab_menu" = "Menu";
+"tab_order" = "Order";
+"tab_settings" = "Settings";
+
+"nav_menu" = "Menu";
+"nav_order" = "Order";
+"nav_payment" = "Payment";
+
+"checkout_payment_method" = "How do you want to pay?";
+"checkout_add_loyalty" = "Add MenuMate loyalty card";
+"checkout_enter_id" = "Enter your MenuMate ID";
+"checkout_add_tip" = "Add a tip?";
+"checkout_tip_amount" = "Tip amount";
+"checkout_total" = "Total: %@";
+"checkout_confirm" = "Confirm your order";
+"checkout_alert_title" = "Order confirmed.";
+"checkout_alert_message" = "Your total was %@ - thank you.";
+
+"item_photo" = "Photo: %@";
+"item_order" = "Order this";
+
+"order_place" = "Place order";
+
+"settings_language" = "Language";
+
+"restrictions_info_title" = "Dietary info";
+"restriction_d" = "Dairy";
+"restriction_g" = "Gluten";
+"restriction_n" = "Nuts";
+"restriction_s" = "Spicy";
+"restriction_v" = "Vegan";

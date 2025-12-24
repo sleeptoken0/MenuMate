@@ -1,0 +1,31 @@
+"tab_menu" = "Μενού";
+"tab_order" = "Παραγγελία";
+"tab_settings" = "Ρυθμίσεις";
+
+"nav_menu" = "Μενού";
+"nav_order" = "Παραγγελία";
+"nav_payment" = "Πληρωμή";
+
+"checkout_payment_method" = "Πώς θέλετε να πληρώσετε;";
+"checkout_add_loyalty" = "Προσθήκη κάρτας MenuMate loyalty";
+"checkout_enter_id" = "Εισάγετε το MenuMate ID";
+"checkout_add_tip" = "Προσθήκη φιλοδωρήματος;";
+"checkout_tip_amount" = "Φιλοδώρημα";
+"checkout_total" = "Σύνολο: %@";
+"checkout_confirm" = "Επιβεβαίωση παραγγελίας";
+"checkout_alert_title" = "Η παραγγελία ολοκληρώθηκε.";
+"checkout_alert_message" = "Το σύνολο ήταν %@ – ευχαριστούμε.";
+
+"item_photo" = "Φωτο: %@";
+"item_order" = "Προσθήκη";
+
+"order_place" = "Ολοκλήρωση παραγγελίας";
+
+"settings_language" = "Γλώσσα";
+
+"restrictions_info_title" = "Πληροφορίες";
+"restriction_d" = "Γαλακτοκομικά";
+"restriction_g" = "Γλουτένη";
+"restriction_n" = "Ξηροί καρποί";
+"restriction_s" = "Πικάντικο";
+"restriction_v" = "Vegan";
